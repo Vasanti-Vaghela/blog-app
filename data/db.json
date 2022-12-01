@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "write a letter",
+      "body": "Job application for frontend developer.",
+      "author": "Vasu",
+      "id": 3
+    }
+  ]
+}
